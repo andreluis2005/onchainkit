@@ -134,6 +134,7 @@ Then, you can view the playground at [http://localhost:3000](http://localhost:30
 <a href="https://github.com/coinbase/onchainkit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=coinbase/onchainkit" />
 </a>
+## Novas atualizaçoes em portugues
 
 ## 🌊 License
 
